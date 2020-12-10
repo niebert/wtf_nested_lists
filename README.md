@@ -1,0 +1,2 @@
+# wtf_nested_lists
+This repository is a contribution to the Wiki Transformation Framework of Spencer Kelly called wtf_wikipedia. It is a micro library to test the parsing of nested list. It assumes that content elements are tokenized (like citations and mathematical expressions in LaTeX) that may cause unwanted parsing issues due to incompatible syntactical expression e.g. the "*" symbol in LaTeX math environment that is used for the list items in MediaWiki Markdown language.
